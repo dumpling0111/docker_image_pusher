@@ -21,3 +21,4 @@ gcr.lank8s.cn/google-samples/microservices-demo/adservice:v0.10.0
 gcr.lank8s.cn/google-samples/microservices-demo/frontend:v0.10.0
 busybox:latest
 redis:alpine
+kubernetes/dashboard
